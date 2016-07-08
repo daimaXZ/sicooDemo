@@ -4,9 +4,6 @@ package com.my.parallaxrecyclerview;
 import android.view.View;
 import android.widget.TextView;
 
-/**
- * Created by mohamedzakaria on 6/16/16.
- */
 public class MyViewHolder extends ParallaxViewHolder {
     public ParallaxImageView img;
     public  TextView tv_name;

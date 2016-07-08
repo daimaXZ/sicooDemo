@@ -5,9 +5,6 @@ import android.support.v7.widget.RecyclerView;
 import android.util.AttributeSet;
 import android.view.View;
 
-/**
- * Created by mohamedzakaria on 6/16/16.
- */
 public class ParallaxRecyclerView extends RecyclerView {
 
     private OnScrollListener scrollListener;

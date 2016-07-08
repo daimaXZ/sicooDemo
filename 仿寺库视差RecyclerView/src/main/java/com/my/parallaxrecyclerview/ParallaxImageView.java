@@ -8,9 +8,7 @@ import android.net.Uri;
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
-/**
- * Created by mohamedzakaria on 6/16/16.
- */
+
 public class ParallaxImageView extends ImageView {
     private final float DEFAULT_PARALLAX_RATIO = 2f;
 
